@@ -17,7 +17,7 @@ Create a simple logo fast and easy using the terminal. Pick from 3 shapes (circl
 run `npm i` in the root directory
 
 ## Usage
-run `node index.js` and answer the questions provided. Here is short [video](https://drive.google.com/file/d/1K-KUiGYab9ClCJmaIg4TAwCDErffJdAt/view) showing how to instal the packages, run the tests, and run the file.
+run `node index.js` and answer the questions provided. Here is a short [video](https://drive.google.com/file/d/1K-KUiGYab9ClCJmaIg4TAwCDErffJdAt/view) showing how to instal the packages, run the tests, and run the file.
 
 ## License
 
