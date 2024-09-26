@@ -1,0 +1,1 @@
+All generated svg images go in assets.
